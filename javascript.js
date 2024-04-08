@@ -1,5 +1,6 @@
 let playerScore = 0;
 let enemyScore = 0;
+let tieScore = 0;
 
 
 function getComputerChoice(){
